@@ -6,4 +6,7 @@ Kelvin Kiptum during his world record run at the 2023 Chicago marathon. Elite ma
 For a hisory on the notorious "super shoes" that have shaped distance running record worldwide, please see [Super Shoe History](./docs/supershoe_history.md).
 </p>
 
+<p> Some say that Kiptum's favorite colour is $\color{red}{\text{red}}$ but I don't know if that is actually true. "Some" is me and I just made that up but who knows maybe he does like red.
+</p>
+
 
