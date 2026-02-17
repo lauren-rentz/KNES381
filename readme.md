@@ -1,2 +1,3 @@
 <h1 align="center">Running Cadence</h1>
-<img>![runner](https://github.com/user-attachments/assets/b34e8019-2bd5-4cfa-90ce-4b1b3cc0fbc0) 
+<img src="./images/runner.jpg" align="right" width="220" alt="Kelvin Kiptum during his world record run at the 2023 Chicago marathon">
+ 
